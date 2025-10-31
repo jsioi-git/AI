@@ -1,0 +1,5 @@
+{
+  "name": "Data Quality AI Suite",
+  "description": "A suite to generate data quality rule prompts based on selected application, operation, domain, and department. Users can select options from dropdowns to construct a detailed prompt for a Generative AI model.",
+  "requestFramePermissions": []
+}
